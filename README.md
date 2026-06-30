@@ -1,4 +1,4 @@
-# Data Exploration 2 Using Excel
+# Product Sales Analysis Data Exploration2 using Excel
 <img width="559" height="319" alt="Readme Header" src="https://github.com/user-attachments/assets/901206aa-6764-45fc-a5bb-707adf7ea748" />
 
 
